@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "This is node js",
+  "main": "external.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon external.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Shreyash",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.10"
+  }
+}
